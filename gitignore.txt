@@ -1,0 +1,9 @@
+logs/
+csvdb/
+
+# Environment
+venv/
+
+# Models
+hubert_base.pt
+rmvpe.pt
